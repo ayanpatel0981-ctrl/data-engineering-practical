@@ -1,0 +1,37 @@
+[
+  {
+    "log_id": "LOG001",
+    "account_id": "ACC1001",
+    "auth_method": "Biometric",
+    "ip_country": "IN",
+    "is_success": true
+  },
+  {
+    "log_id": "LOG002",
+    "account_id": "ACC1002",
+    "auth_method": "SMS_OTP",
+    "ip_country": "IN",
+    "is_success": true
+  },
+  {
+    "log_id": "LOG003",
+    "account_id": "ACC1003",
+    "auth_method": "MPIN",
+    "ip_country": "IN",
+    "is_success": true
+  },
+  {
+    "log_id": "LOG004",
+    "account_id": "ACC1005",
+    "auth_method": "Password",
+    "ip_country": "RU",
+    "is_success": false
+  },
+  {
+    "log_id": "LOG005",
+    "account_id": "ACC1008",
+    "auth_method": "Biometric",
+    "ip_country": "IN",
+    "is_success": true
+  }
+]

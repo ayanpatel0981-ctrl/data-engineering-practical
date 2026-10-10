@@ -1,0 +1,65 @@
+[
+  {
+    "merchant_id": "M201",
+    "merchant_name": "Amazon India",
+    "category": "E-Commerce",
+    "risk_level": "Low",
+    "commission_rate": 0.015
+  },
+  {
+    "merchant_id": "M202",
+    "merchant_name": "MakeMyTrip Flights",
+    "category": "Travel",
+    "risk_level": "Low",
+    "commission_rate": 0.02
+  },
+  {
+    "merchant_id": "M203",
+    "merchant_name": "Swiggy Food Tech",
+    "category": "Dining & Food",
+    "risk_level": "Low",
+    "commission_rate": 0.025
+  },
+  {
+    "merchant_id": "M204",
+    "merchant_name": "Croma Electronics",
+    "category": "Retail & Hardware",
+    "risk_level": "Low",
+    "commission_rate": 0.018
+  },
+  {
+    "merchant_id": "M205",
+    "merchant_name": "CryptoPay Gateway",
+    "category": "Digital Asset",
+    "risk_level": "High",
+    "commission_rate": 0.035
+  },
+  {
+    "merchant_id": "M206",
+    "merchant_name": "Uber Mobility",
+    "category": "Transport",
+    "risk_level": "Low",
+    "commission_rate": 0.022
+  },
+  {
+    "merchant_id": "M207",
+    "merchant_name": "Netflix Entertainment",
+    "category": "Digital Subscription",
+    "risk_level": "Low",
+    "commission_rate": 0.012
+  },
+  {
+    "merchant_id": "M208",
+    "merchant_name": "Apollo Pharmacy",
+    "category": "Healthcare",
+    "risk_level": "Low",
+    "commission_rate": 0.015
+  },
+  {
+    "merchant_id": "M999",
+    "merchant_name": "Corrupt Merchant Entry",
+    "category": null,
+    "risk_level": "Extreme",
+    "commission_rate": -0.05
+  }
+]

@@ -1,0 +1,7 @@
+record_type,identifier,reason,raw_data
+Account,ACC1999,Negative balance or unverified KYC status,"{'account_id': 'ACC1999', 'holder_name': 'Ghost Account', 'account_type': 'Savings', 'balance': -5000, 'city': 'Unknown', 'kyc_status': 'Pending'}"
+Merchant,M999,Missing category or invalid negative commission rate,"{'merchant_id': 'M999', 'merchant_name': 'Corrupt Merchant Entry', 'category': None, 'risk_level': 'Extreme', 'commission_rate': -0.05}"
+Transaction,TXN99991,Foreign Key violation: Account ACC8888 not found,"{'transaction_id': 'TXN99991', 'account_id': 'ACC8888', 'merchant_id': 'M201', 'trans_date': '2024-03-15', 'amount': 1200.0, 'channel': 'UPI', 'status': 'Settled'}"
+Transaction,TXN99992,Foreign Key violation: Merchant M777 not found,"{'transaction_id': 'TXN99992', 'account_id': 'ACC1002', 'merchant_id': 'M777', 'trans_date': '2024-04-20', 'amount': 3500.0, 'channel': 'Credit Card', 'status': 'Settled'}"
+Transaction,TXN99993,Non-positive transaction amount: -1500.0,"{'transaction_id': 'TXN99993', 'account_id': 'ACC1003', 'merchant_id': 'M202', 'trans_date': '2024-05-12', 'amount': -1500.0, 'channel': 'UPI', 'status': 'Settled'}"
+Transaction,TXN99994,Corrupted transaction timestamp: CORRUPT_DATE,"{'transaction_id': 'TXN99994', 'account_id': 'ACC1004', 'merchant_id': 'M203', 'trans_date': 'CORRUPT_DATE', 'amount': 400.0, 'channel': 'Debit Card', 'status': 'Settled'}"

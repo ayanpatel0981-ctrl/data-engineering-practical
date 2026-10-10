@@ -1,0 +1,9 @@
+merchant_id,merchant_name,category,risk_level,commission_rate
+M201,Amazon India,E-Commerce,Low,0.015
+M202,MakeMyTrip Flights,Travel,Low,0.02
+M203,Swiggy Food Tech,Dining & Food,Low,0.025
+M204,Croma Electronics,Retail & Hardware,Low,0.018
+M205,CryptoPay Gateway,Digital Asset,High,0.035
+M206,Uber Mobility,Transport,Low,0.022
+M207,Netflix Entertainment,Digital Subscription,Low,0.012
+M208,Apollo Pharmacy,Healthcare,Low,0.015

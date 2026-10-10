@@ -1,0 +1,13 @@
+account_id,holder_name,account_type,balance,city,kyc_status
+ACC1001,Aarush Sen,Savings,145000,Mumbai,Verified
+ACC1002,Isha Chawla,Current,520000,Delhi,Verified
+ACC1003,Kabir Mehta,Savings,88000,Bengaluru,Verified
+ACC1004,Tara Sengupta,Wealth,1850000,Kolkata,Verified
+ACC1005,Aditya Verma,Savings,64000,Pune,Verified
+ACC1006,Nandini Iyer,Current,390000,Chennai,Verified
+ACC1007,Sameer Joshi,Savings,112000,Hyderabad,Verified
+ACC1008,Rhea Kapoor,Wealth,2400000,Mumbai,Verified
+ACC1009,Devansh Bhatia,Savings,45000,Ahmedabad,Verified
+ACC1010,Meera Nambiar,Current,610000,Kochi,Verified
+ACC1002,Isha Chawla,Current,520000,delhi,Verified
+ACC1999,Ghost Account,Savings,-5000,Unknown,Pending
