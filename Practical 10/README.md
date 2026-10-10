@@ -1,6 +1,6 @@
 # Practical 10: FinTech Transaction Monitoring & Banking Data Warehouse (Mini Project)
 
-### **Author (Solo Project)**
+### **Author**
 - **Ayan Patel**
 
 ---
