@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Lab Practicals Overview
+## Practicals Overview
 
 Every practical contains a dedicated `README.md` documentation file detailing the **Aim**, **Brief Theory**, **Source Code**, **Execution Output**, and **Conclusion**:
 
